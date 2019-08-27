@@ -1,31 +1,31 @@
 <!DOCTYPE html>
 <html>
-<head>
+<h1>
 Teammates
-</head>
+</h1>
 <p>
 David Javier Perez Alvarez A01635157
 Joel Fernando Santillan A01634748
 </p>
 
-<head>
+<h1>
 Linkedin
-</head>
+</h1>
 <p>
 David: https://www.linkedin.com/in/david-javier-perez-alvarez-295960191/
 Joel: https://www.linkedin.com/in/joel-fernando-santillan-santana-543872158/
 </p>
 
-<head>
+<h1>
 Reasons to be in a team
-</head>
+</h1>
 <p>
 Somos amigos, nos conocemos desde hace mucho tiempo y trabajamos felizmente.
 </p>
 
-<head>
+<h1>
 Problem Context
-</head>
+</h1>
 <p>
 Cuando estas paseando a tu perro hay veces que se te olvidan las bolsas para recoger su popo. Tambien hay veces que el perro hace doble
 y para ese entonces ya se terminaron las bolsas.El ATM ofrece una solucion a no tener que pensar en las bolsas. Este te ofrece una bolsa
@@ -33,26 +33,28 @@ biodegradable a un precio bastante accesible. Tambien te ayuda a deterner a tu p
 intentando no mancharnos de popo.
 </p>
 
-<head>
+<h1>
 Questions
-</head>
+</h1>
 <p>
 <!--questions-->
 </p>
 
-<head>
+<h1>
 Implementation Plan
-</head>
+</h1>
 <p>
 Definir el funcionamiento del ATM y la interacción con el usuario. Estudiar cuales son sus ventajas y desventajas te puede ofrecer, tanto a
 ti como a tu perro. Luego llevar a cabo un diseño que sea ergonomico, funcional y a gradable a la vista para proceder a elaborar un
 prototipo (MVP) en un tipo carton, creando asi un ATM "Funcional".
 </p>
 
-<head>
+<h1>
 Link to your github repository
-</head>
+</h1>
 <p>
 Link: https://github.com/Davidperezjpa/Interactive_Design
 </p>
+
+<>
 </html>
